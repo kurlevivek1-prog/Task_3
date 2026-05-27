@@ -1,4 +1,4 @@
-CopyTask-3: Design a Multi-Register GPIO IP with Software Control
+Task-3: Design a Multi-Register GPIO IP with Software Control
 Internship: VSDSquadron FPGA Mini
 Task Duration: 4 days | Mandatory
 Hardware Validation: Optional
